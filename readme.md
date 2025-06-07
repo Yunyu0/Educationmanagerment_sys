@@ -26,7 +26,6 @@ Educationmanagerment_sys/
 ├── target/ # 编译输出目录
 ├── pom.xml # Maven 项目配置文件
 ```
-
 ## 技术栈
 - **后端框架**：Spring Boot 2.2.0.RELEASE
 - **持久层框架**：MyBatis Spring Boot Starter 2.1.1
