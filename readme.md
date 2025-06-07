@@ -4,6 +4,7 @@
 本项目是一个基于 Spring Boot 的教育管理系统，借助 Spring Boot 框架、MyBatis 持久层框架和 MySQL 数据库，构建出一套完整的教育管理解决方案。系统涵盖了学生、教师等角色的相关功能，包括学生查看已修课程、教师管理课程与成绩等。
 
 ## 项目结构
+```bash
 Educationmanagerment_sys/
 └── chenwanyu_EducationalMS/
 ├── .idea/ # IntelliJ IDEA 配置文件
@@ -24,6 +25,7 @@ Educationmanagerment_sys/
 │ └── test/ # 测试代码目录
 ├── target/ # 编译输出目录
 ├── pom.xml # Maven 项目配置文件
+```
 
 ## 技术栈
 - **后端框架**：Spring Boot 2.2.0.RELEASE
